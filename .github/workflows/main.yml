@@ -1,0 +1,2 @@
+name: Remote Jupyter Book Publish
+uses: sroncall/jupyter-publish-action@v0.1.0
